@@ -1,0 +1,11 @@
+{
+  "name": "api_restfull_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FelipePinheiroRegina/api_restfull_nodejs.git",
+  "author": "Felipe Pinheiro <flppinheiro@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
